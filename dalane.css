@@ -74,7 +74,7 @@ header::before {
 	position: absolute;
 	display: block;
 	background-color: cornflowerblue;
-	background-image: url(./cover.jpg);
+	background-image: url(./carillon.jpg);
 	background-size: cover;
 	background-position: center;
 	transform: translateZ(-200px) scale(2);
