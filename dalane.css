@@ -74,7 +74,7 @@ header::before {
 	position: absolute;
 	display: block;
 	background-color: cornflowerblue;
-	background-image: url(file:cover.jpg);
+	background-image: url(./cover.jpg);
 	background-size: cover;
 	background-position: center;
 	transform: translateZ(-200px) scale(2);
